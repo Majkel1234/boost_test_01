@@ -1,0 +1,11 @@
+Running 2 test cases...
+Entering test suite "myTest"
+Entering test suite "testy_hierarchii_klas_A_i_B"
+Entering test case "testKlasyA"
+test.cpp(13): fatal error in "testKlasyA": It looks like function 'getX()' from class 'A' doesnt work properly..
+Leaving test case "testKlasyA"; testing time: 174mks
+Entering test case "testKlasyB"
+test.cpp(23): error in "testKlasyB": It looks like function 'getY()' from class 'B' doesnt work properly..
+Leaving test case "testKlasyB"; testing time: 95mks
+Leaving test suite "testy_hierarchii_klas_A_i_B"
+Leaving test suite "myTest"
